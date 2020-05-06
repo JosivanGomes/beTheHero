@@ -7,5 +7,5 @@
 - Js
 - Node.Js
 - React
-- React Native
+- React Nativenpm
 
