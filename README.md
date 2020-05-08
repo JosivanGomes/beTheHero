@@ -7,7 +7,10 @@
 - Js
 - Node.Js
 - React
-- React Nativenpm
+- React Native
 
-- 2/5 - 00:24:52
+# Banco de dados
+- Sqlite3 + Knex
+
+- 2/5 - 00:55:06
 
